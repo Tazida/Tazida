@@ -2,11 +2,13 @@
 
 # Hi, I'm Tazida 👋
 
-### Software Engineer · Full-stack Web Development · AI/ML
+### Software Engineer · Web Applications · Real-time Systems
 
-I build web applications and REST APIs, with experience across backend development, frontend interfaces, databases, and AI/ML projects.
+I build web applications and REST APIs, with a focus on maintainable code, thoughtful user experiences, and scalable systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tazida-181717?style=flat&logo=github)](https://github.com/Tazida)
+[![GitHub](https://img.shields.io/badge/GitHub-Tazida-181717?style=for-the-badge&logo=github)](https://github.com/Tazida)
+
+[Laravel](https://laravel.com/) · [SvelteKit](https://svelte.dev/) · [PHP](https://www.php.net/) · [Python](https://www.python.org/) · [Docker](https://www.docker.com/) · [MySQL](https://www.mysql.com/)
 
 </div>
 
@@ -14,10 +16,18 @@ I build web applications and REST APIs, with experience across backend developme
 
 ## About me
 
-- Software Engineer at **TechCliqs**, working with Laravel, SvelteKit, and REST APIs.
-- Experienced in OOP, MVC architecture, multi-tenant applications, and relational databases.
-- Previously contributed to ERP software and AI/ML projects, including text annotation, NER, and Rasa chatbots.
-- I enjoy building maintainable software and learning tools that help teams work effectively.
+- Software Engineer at **TechCliqs**, building web applications and REST APIs.
+- Experienced with Laravel, SvelteKit, relational databases, and real-time systems.
+- Background in ERP software and AI/ML projects, including text annotation, NER, and Rasa chatbots.
+- Based in Dhaka, Bangladesh.
+- I enjoy building clean, maintainable software and continuously learning better ways to solve problems.
+
+## What I do
+
+- Build full-stack web applications and REST APIs.
+- Develop backend services with Laravel, PHP, and Python.
+- Create frontend experiences with SvelteKit, JavaScript, and Tailwind CSS.
+- Work with SQL databases, Docker, Redis, and WebSockets.
 
 ## Tech & tools
 
@@ -25,6 +35,13 @@ I build web applications and REST APIs, with experience across backend developme
 **Frontend:** SvelteKit, JavaScript, HTML, CSS, Tailwind CSS, Blade  
 **Databases & infrastructure:** MySQL, PostgreSQL, Redis, Docker, Supabase  
 **Tools:** Git, Linux, Jenkins, Nix, devenv, WebSockets
+
+## Selected projects
+
+- [Digital Avenue Backend](https://github.com/Tazida/digital-avenue-backend) — backend project
+- [Eduinside Frontend](https://github.com/Tazida/eduinside-frontend) — frontend project
+- [Realtime Communication System](https://github.com/Tazida/realtime-communication-system) — real-time communication project
+- [Eye Mouse](https://github.com/Tazida/eye_mouse) — an exploration of eye-controlled interaction
 
 ## Experience
 
@@ -41,21 +58,12 @@ I build web applications and REST APIs, with experience across backend developme
 - **Customer Service Management · EduHive** — Nov 2021–May 2022  
   Supported customers, answered product questions, and managed social media queries.
 
-## Selected projects
-
-- [Digital Avenue Backend](https://github.com/Tazida/digital-avenue-backend) — backend project
-- [Eduinside Frontend](https://github.com/Tazida/eduinside-frontend) — frontend project
-- [Realtime Communication System](https://github.com/Tazida/realtime-communication-system) — real-time communication project
-- [Eye Mouse](https://github.com/Tazida/eye_mouse) — an exploration of eye-controlled interaction
-
 ## Let’s connect
 
 Have an interesting project or idea? [Explore my repositories](https://github.com/Tazida?tab=repositories) and get in touch through GitHub.
 
----
-
 <div align="center">
 
-*Thanks for stopping by.*
+*Build better. Scale further. Keep learning.*
 
 </div>
